@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap');
+body{
+    font-family:'JoseFin Sans';
+}
+.navbar{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    margin-bottom:80px;
+    margin-top:40px;
+    border: 1px black;
+    box-shadow: 1px gray;
+}
+#nav--img{
+    opacity: 0.6;
+    background-color: aqua;
+    margin-left:580px;
+}
+#nav--span{
+    margin-left: 10px;
+}
+.card{
+    width:60%;
+    height:500px;
+    display: flex;
+    margin: 40px;
+    margin-top:60px;
+}
+#card--img{
+    border-radius: 12px;
+    width: 300px;
+}
+#location--icon{
+    height: 20px;
+    width:20px;
+    align-self: center;
+    margin-top: 60px;
+    margin-bottom: -2px;
+}
+#city{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: large;
+    letter-spacing: 3px;
+}
+#link{
+    color:gray;
+    letter-spacing: 1px;
+    text-decoration: underline;
+}
+#card--location{
+    display:flex;
+}
+#card--info{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+#title{
+    letter-spacing: 3px;
+    font-weight:bolder;
+    margin-top:20px;
+}
+#dates{
+    letter-spacing: 2px;
+    font-weight: 700;
+    font-size: medium;
+    margin-top:50px;
+    margin-bottom:5px;
+}
+p{
+    margin-top: 40px;
+    font-weight: 400;
+}
