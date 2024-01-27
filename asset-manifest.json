@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Projects/static/css/main.4705b3ec.css",
-    "main.js": "/React-Projects/static/js/main.ba959d49.js",
-    "static/js/787.b9db3abf.chunk.js": "/React-Projects/static/js/787.b9db3abf.chunk.js",
-    "index.html": "/React-Projects/index.html",
-    "main.4705b3ec.css.map": "/React-Projects/static/css/main.4705b3ec.css.map",
-    "main.ba959d49.js.map": "/React-Projects/static/js/main.ba959d49.js.map",
-    "787.b9db3abf.chunk.js.map": "/React-Projects/static/js/787.b9db3abf.chunk.js.map"
+    "main.css": "/TravelJournel/static/css/main.4705b3ec.css",
+    "main.js": "/TravelJournel/static/js/main.779d69cd.js",
+    "static/js/787.b9db3abf.chunk.js": "/TravelJournel/static/js/787.b9db3abf.chunk.js",
+    "index.html": "/TravelJournel/index.html",
+    "main.4705b3ec.css.map": "/TravelJournel/static/css/main.4705b3ec.css.map",
+    "main.779d69cd.js.map": "/TravelJournel/static/js/main.779d69cd.js.map",
+    "787.b9db3abf.chunk.js.map": "/TravelJournel/static/js/787.b9db3abf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4705b3ec.css",
-    "static/js/main.ba959d49.js"
+    "static/js/main.779d69cd.js"
   ]
 }
